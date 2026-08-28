@@ -1,0 +1,2 @@
+# UAV_Flight_Control
+无人机飞控系统底层驱动开发。包含FreeRTOS多任务调度、IMU多传感器数据融合、串级PID姿态控制算法及系统级调试。
